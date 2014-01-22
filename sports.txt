@@ -1,3 +1,6 @@
 Baseball
 Basketball
 Football
+Soccer
+softball
+vollyball
